@@ -37,6 +37,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 Migrations vorbereitungen,
 Wurde Migriert von https://github.com/HauthyPiyces/hpmak
+
 Code Einlöse System eingebaut, konvertiert als beispiel "SUPERAWSOME CODE - 10000 Gold" zu "SUPERAWSOME CODE",
 gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
 
