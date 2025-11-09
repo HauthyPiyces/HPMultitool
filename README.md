@@ -9,6 +9,8 @@ Youtube Web Downloader
 
 Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
+Automatisches Code Einlösungs System (9.11.2025)
+
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
 Ein Basic Autoklicker,
@@ -35,6 +37,8 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 Migrations vorbereitungen,
 Wurde Migriert von https://github.com/HauthyPiyces/hpmak
+Code Einlöse System eingebaut, konvertiert als beispiel "SUPERAWSOME CODE - 10000 Gold" zu "SUPERAWSOME CODE",
+gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
 
 ### 8.11.2025
 
