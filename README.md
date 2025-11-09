@@ -1,4 +1,5 @@
-Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll, im selben Moment dient es als training für mich.
+Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll, im selben Moment dient es als training, Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden und sind alle willkommen.
+
 
 # Momentan beinhaltet das Projekt:
 
@@ -17,8 +18,6 @@ Ressourcen nutzungs Overlay (minimal umfärbbar)
 KeyOverlay
 
 Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
-
-Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
 <img width="813" height="418" alt="image" src="https://github.com/user-attachments/assets/df889e23-c15c-48bb-9ea9-f5f4e7cce0ac" />
