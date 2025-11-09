@@ -22,7 +22,7 @@ KeyOverlay
 Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="813" height="418" alt="Screenshot 2025-11-09 220420" src="https://github.com/user-attachments/assets/ea7f9453-a029-49f2-af62-b8a1dde2112a" />
+<img width="814" height="423" alt="Screenshot 2025-11-09 221517" src="https://github.com/user-attachments/assets/fd4dac16-2c51-441f-ad81-31e717fa6959" />
 
 
 
