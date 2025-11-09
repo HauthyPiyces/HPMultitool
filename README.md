@@ -1,6 +1,3 @@
-# Wird Momentan Migriert von https://github.com/HauthyPiyces/hpmak
-
-
 Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll, im selben Moment dient es als training für mich.
 
 # Momentan beinhaltet das Projekt:
@@ -10,8 +7,6 @@ Youtube Web Downloader
 Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
-
-Winrate Automatisierung (Limbus Company)
 
 Ein Basic Autoklicker,
 
@@ -37,7 +32,8 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 9.11.2025
 
-Migrations vorbereitungen.
+Migrations vorbereitungen,
+Wurde Migriert von https://github.com/HauthyPiyces/hpmak
 
 ### 8.11.2025
 
