@@ -5,6 +5,8 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 # Momentan beinhaltet das Projekt:
 
+Anpassbarer Hintergrund (27.10.2025)
+
 Youtube Web Downloader
 
 Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
