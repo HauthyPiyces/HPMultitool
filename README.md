@@ -37,6 +37,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 9.11.2025
 
+Bigfix für den "RBLX Auto-Rejoin" nachdem ich ein neues System angewendet habe welches nur einen Screenshot der Anwendung macht anstatt vom Ganzen Screen,
+vergass ich die Berechnung auch richtig umzustellen, von der Bildschirm Größe zur momentanen Anwendungs Größe.
+
+### 9.11.2025
+
 Migrations vorbereitungen,
 Wurde Migriert von https://github.com/HauthyPiyces/hpmak
 
