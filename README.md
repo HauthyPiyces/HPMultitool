@@ -11,6 +11,8 @@ Youtube Web Downloader
 
 Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
+Datei Tools (11.11.2025)
+
 Automatisches Code Einlösungs System (9.11.2025)
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
@@ -33,7 +35,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 
-## Verlauf des Projekts
+# Verlauf des Projekts
+
+### 11.11.2025
+
+Update System leicht überarbeitet indem du nun siehst wie weit der download ist,
+Datei Ent- und verschlüsselung mit dem neuen Datei Teilungs und zusammenführungs System zu einem gemacht als "Datei Tools"
 
 ### 9.11.2025
 
