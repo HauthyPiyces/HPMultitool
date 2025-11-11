@@ -60,6 +60,8 @@ gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du die
 
 ~~WINRATE!~~
 ~~Für Limbus Company eine Automatisierung die Winrate drückt und dann wieder zurück tabt~~
+
+
 Ein guter bot für Limbus findest du hier: https://github.com/AlexWalp/Mirror-Dungeon-Bot
 
 ### 7.11.2025
