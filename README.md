@@ -60,7 +60,7 @@ Migrations vorbereitungen,
 Wurde Migriert von https://github.com/HauthyPiyces/hpmak
 
 - Code Einlöse System eingebaut, konvertiert als beispiel "SUPERAWSOME CODE - 10000 Gold" zu "SUPERAWSOME CODE",
--- gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
+gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
 
 ### 8.11.2025
 
@@ -71,24 +71,21 @@ Wurde Migriert von https://github.com/HauthyPiyces/hpmak
 Ein guter bot für Limbus findest du hier: https://github.com/AlexWalp/Mirror-Dungeon-Bot
 
 ### 7.11.2025
-Ganze RAM/CPU limiter sektion "entfernt" alles wurde auskommentiert und kommt vielleicht später wieder,
-
-Code Einlöse System, gedacht um große mengen von codes nach einander einzulösen, kann rein theoretisch auch für was anderes verwendet werden.
-
-Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden,
+- Ganze RAM/CPU limiter sektion "entfernt" alles wurde auskommentiert und kommt vielleicht später wieder,
+- Code Einlöse System, gedacht um große mengen von codes nach einander einzulösen, kann rein theoretisch auch für was anderes verwendet werden.
+- Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden,
 
 
 <img width="814" height="424" alt="image" src="https://github.com/user-attachments/assets/a9413ae2-1385-4886-a6ea-724a4a9fca94" />
 
 ### 6.11.2025
 
-Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert,
-
-Ich wusste dies leider davor nicht es ist mir grade beim testen aufgefallen.
+- Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert,
+- Ich wusste dies leider davor nicht es ist mir grade beim testen aufgefallen.
 
 ### 5.11.2025
 
-Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei Datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches System wie beim Text Speicher,
+- Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei Datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches System wie beim Text Speicher,
 jedoch wird die Datei mit einem Password geschutzt das nicht vergessen werden sollte, wenn es vergessen wird kannst du nicht an die Datei rann,
 ebendso überprüft das Programm nicht ob es das richtige Password ist sondern entschlüsselt die datei einfach und wenn das Password falsch war funktioniert die Datei nicht.
 
