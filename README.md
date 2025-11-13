@@ -40,9 +40,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 13.11.2025
 
-- Lade Fenster damit man sehen kann was grade los ist beim start anstatt das man nichts sieht und wartet,
+- Lade Fenster damit man sehen kann was grade los ist beim start anstatt das man nichts sieht und wartet, (Auch für's laden der Videos)
 - "Bugfixes" für die Fortschrittsbalken der Dateitools damit diese auch wirklich funktionieren, ich habe das einfach vergessen.... whops,
 - Ein bisschen verschiedende Text formulierung geändert.
+- Versucht lange Lade zeiten bei langen Hintergrund Videos zu beheben, konnte nicht wirklich getestet werden da mein PC zu schnell lädt.
 
 ### 11.11.2025
 
