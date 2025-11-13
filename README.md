@@ -74,6 +74,7 @@ Ein guter bot für Limbus findest du hier: https://github.com/AlexWalp/Mirror-Du
 
 ### 7.11.2025
 Ganze RAM/CPU limiter sektion "entfernt" alles wurde auskommentiert und kommt vielleicht später wieder,
+
 Code Einlöse System, gedacht um große mengen von codes nach einander einzulösen, kann rein theoretisch auch für was anderes verwendet werden.
 
 Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden,
@@ -84,6 +85,7 @@ Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das
 ### 6.11.2025
 
 Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert,
+
 Ich wusste dies leider davor nicht es ist mir grade beim testen aufgefallen.
 
 ### 5.11.2025
@@ -97,6 +99,7 @@ ebendso überprüft das Programm nicht ob es das richtige Password ist sondern e
 ### 28.10.2025
 
 Geplannte Updates vom UI ersetzt mit dem Projekt Verlauf,
+
 DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in Unschärfe endet war im moment die einfachste möglichkeit welche überarbeitet wird sobald wirklich nötig.
 
 <img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/03f553c9-706f-4e6b-8a7e-292095cd0543" />
@@ -106,6 +109,7 @@ DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in
 Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt,
 
 Lautstärke einstellung hinzugefügt,
+
 libvlc wird nichtmehr im ordner mit geliefert da es nun verschoben wird aus der exe selbst in den Appdata ordner.
 
 <img width="797" height="203" alt="image" src="https://github.com/user-attachments/assets/b33e5ef8-5b34-4008-a3ca-2dfe89940e40" />
