@@ -41,9 +41,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ### 13.11.2025
 
 - Lade Fenster damit man sehen kann was grade los ist beim start anstatt das man nichts sieht und wartet,
-
 - "Bugfixes" für die Fortschrittsbalken der Dateitools damit diese auch wirklich funktionieren, ich habe das einfach vergessen.... whops,
-
 - Ein bisschen verschiedende Text formulierung geändert.
 
 ### 11.11.2025
@@ -53,7 +51,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 9.11.2025
 
-Bigfix für den "RBLX Auto-Rejoin" nachdem ich ein neues System angewendet habe welches nur einen Screenshot der Anwendung macht anstatt vom Ganzen Screen,
+- Bigfix für den "RBLX Auto-Rejoin" nachdem ich ein neues System angewendet habe welches nur einen Screenshot der Anwendung macht anstatt vom Ganzen Screen,
 vergass ich die Berechnung auch richtig umzustellen, von der Bildschirm Größe zur momentanen Anwendungs Größe.
 
 ### 9.11.2025
@@ -61,8 +59,8 @@ vergass ich die Berechnung auch richtig umzustellen, von der Bildschirm Größe 
 Migrations vorbereitungen,
 Wurde Migriert von https://github.com/HauthyPiyces/hpmak
 
-Code Einlöse System eingebaut, konvertiert als beispiel "SUPERAWSOME CODE - 10000 Gold" zu "SUPERAWSOME CODE",
-gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
+- Code Einlöse System eingebaut, konvertiert als beispiel "SUPERAWSOME CODE - 10000 Gold" zu "SUPERAWSOME CODE",
+-- gedacht für wenn du eine lange Code Liste von einer Website nimmst damit du diese Automatisch Einlösen kannst während du kurz dein Essen machst.
 
 ### 8.11.2025
 
