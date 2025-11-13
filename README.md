@@ -5,27 +5,27 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 # Momentan beinhaltet das Projekt:
 
-Anpassbarer Hintergrund (27.10.2025)
+-Anpassbarer Hintergrund (27.10.2025)
 
-Youtube Web Downloader
+-Youtube Web Downloader
 
-Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
+-Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
-Datei Tools (11.11.2025)
+-Datei Tools (11.11.2025)
 
-Automatisches Code Einlösungs System (9.11.2025)
+-Automatisches Code Einlösungs System (9.11.2025)
 
-Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
+-Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
-Ein Basic Autoklicker,
+-Ein Basic Autoklicker,
 
 ~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
 
-Ressourcen nutzungs Overlay (minimal umfärbbar)
+-Ressourcen nutzungs Overlay (minimal umfärbbar)
 
-KeyOverlay
+-KeyOverlay
 
-Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
+-Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
 <img width="814" height="422" alt="image" src="https://github.com/user-attachments/assets/65c25386-d58f-4a29-9256-84d9a0583289" />
