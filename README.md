@@ -41,7 +41,9 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ### 13.11.2025
 
 Lade Fenster damit man sehen kann was grade los ist beim start anstatt das man nichts sieht und wartet,
+
 "Bugfixes" für die Fortschrittsbalken der Dateitools damit diese auch wirklich funktionieren, ich habe das einfach vergessen.... whops,
+
 Ein bisschen verschiedende Text formulierung geändert.
 
 ### 11.11.2025
