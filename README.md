@@ -38,6 +38,13 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 14.11.2025
+
+- Weiter Texte zur Erklärung von FUnktionen hinzugefügt
+- Wenn Roblox Minimiert wurde wird es automatisch wieder in den vordergrund geholt und der nutzer informiert,
+das ist um sicher zu stellen das die Screenshots der anwendung auch gemacht werden können,
+wenn ein fenster minimiert wurde, rendert windows es nicht mehr und der Screenshot ist dann leer.
+
 ### 13.11.2025
 
 - Lade Fenster damit man sehen kann was grade los ist beim start anstatt das man nichts sieht und wartet, (Auch für's laden der Videos)
