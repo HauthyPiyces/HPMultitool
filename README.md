@@ -9,7 +9,7 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 - Youtube Web Downloader
 
-- Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
+- Text Speicher mit lokaler Verschlüsselung `Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)`
 
 - Datei Tools (11.11.2025)
 
