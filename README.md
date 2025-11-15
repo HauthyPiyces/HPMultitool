@@ -28,7 +28,8 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 - Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="814" height="422" alt="image" src="https://github.com/user-attachments/assets/65c25386-d58f-4a29-9256-84d9a0583289" />
+<img width="811" height="419" alt="image" src="https://github.com/user-attachments/assets/6de56c78-113a-4e0e-aef5-fabd746d31e2" />
+
 
 
 
