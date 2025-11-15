@@ -5,15 +5,15 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 # Momentan beinhaltet das Projekt:
 
-- Anpassbarer Hintergrund (27.10.2025)
+- Anpassbarer Hintergrund [(27.10.2025)](https://github.com/HauthyPiyces/HPMultitool#27102025)
 
 - Youtube Web Downloader
 
 - Text Speicher mit lokaler Verschlüsselung `Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)`
 
-- Datei Tools [(11.11.2025)](https://github.com/HauthyPiyces/HPMultitool/blob/main/README.md#13112025)
+- Datei Tools [(11.11.2025)](https://github.com/HauthyPiyces/HPMultitool#13112025)
 
-- Automatisches Code Einlösungs System (9.11.2025)
+- Automatisches Code Einlösungs System [(9.11.2025)](https://github.com/HauthyPiyces/HPMultitool#9112025)
 
 - Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
@@ -57,7 +57,7 @@ wenn ein fenster minimiert wurde, rendert windows es nicht mehr und der Screensh
 - Update System leicht überarbeitet indem du nun siehst wie weit der download ist,
 - Datei Ent- und verschlüsselung mit dem neuen Datei Teilungs und zusammenführungs System zu einem gemacht als "Datei Tools"
 
-### 9.11.2025
+### 10.11.2025
 
 - Bigfix für den "RBLX Auto-Rejoin" nachdem ich ein neues System angewendet habe welches nur einen Screenshot der Anwendung macht anstatt vom Ganzen Screen,
 vergass ich die Berechnung auch richtig umzustellen, von der Bildschirm Größe zur momentanen Anwendungs Größe.
