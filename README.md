@@ -2,10 +2,13 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden und sind alle willkommen.
 
+Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahinter angegeben ist oder frag einfach nach.
 
 # Momentan beinhaltet das Projekt:
 
 - Anpassbarer Hintergrund [(27.10.2025)](https://github.com/HauthyPiyces/HPMultitool#27102025)
+
+- Makro (15.11.2025)
 
 - Youtube Web Downloader
 
@@ -28,7 +31,8 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 - Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="811" height="419" alt="image" src="https://github.com/user-attachments/assets/6de56c78-113a-4e0e-aef5-fabd746d31e2" />
+<img width="816" height="422" alt="image" src="https://github.com/user-attachments/assets/e57468c4-8f7c-408f-9ff2-c425a1c9e158" />
+
 
 
 
@@ -38,6 +42,14 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 15.11.2025
+
+- Makro System eingebaut, unterstützt manuelle eingabe von tasten und die möglichkeit maus + tastatur aufzunehmen und wieder abzuspielen.
+- Ein paar bug fixes die so dumm waren das ich sie vergessen habe.
+
+<img width="510" height="347" alt="image" src="https://github.com/user-attachments/assets/2846e9cd-6d61-4c25-88f0-e6b65347a0c5" />
+
 
 ### 14.11.2025
 
