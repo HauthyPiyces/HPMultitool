@@ -43,6 +43,13 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 16.11.2025
+
+- Starten des Makro system etwas vereinfacht indem die Nachrichten boxen einfach entfernt wurden damit sie nicht gedrückt werden müssen.
+- Ich habe keine ahnung wie ich richtig "SendInput" nutze, momentan wird "SendKeys" genutzt welches nicht "Space" oder andere funktionstasten
+drücken kann
+
+
 ### 15.11.2025
 
 - Makro System eingebaut, unterstützt manuelle eingabe von tasten und die möglichkeit maus + tastatur aufzunehmen und wieder abzuspielen.
