@@ -43,6 +43,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 17.11.2025
+
+- Abbruch HotKey zum Macro hinzugefügt.
+
 ### 16.11.2025
 
 - Starten des Makro system etwas vereinfacht indem die Nachrichten boxen einfach entfernt wurden damit sie nicht gedrückt werden müssen.
