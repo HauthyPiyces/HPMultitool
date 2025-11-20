@@ -46,6 +46,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ### 20.11.2025
 
 - Macro Überarbeitet, Funktionstasten wie "Space" oder "F1" sind nun wirklich Funktionstasten anstatt das sie geschrieben werden.
+- Am selben Tag nochmal ein paar kleine feinschliffe gemacht damit man Aufnahme an Aufnahme machen kann.
 
 ### 17.11.2025
 
