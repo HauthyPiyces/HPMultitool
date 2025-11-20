@@ -43,6 +43,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 20.11.2025
+
+- Macro Überarbeitet, Funktionstasten wie "Space" oder "F1" sind nun wirklich Funktionstasten anstatt das sie geschrieben werden.
+
 ### 17.11.2025
 
 - Abbruch HotKey zum Macro hinzugefügt.
