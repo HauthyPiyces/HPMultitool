@@ -16,6 +16,8 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Datei Tools [(11.11.2025)](https://github.com/HauthyPiyces/HPMultitool#13112025)
 
+- Fenster Focus Tools (21.11.2025)
+
 - Automatisches Code Einlösungs System [(9.11.2025)](https://github.com/HauthyPiyces/HPMultitool#9112025)
 
 - Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
@@ -46,6 +48,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ### 21.11.2025
 
 - Fenster Focus, gibt die möglichkeit Fenster in den Vordergrund zu holen und diese auch dort zu halten die es sonst nicht erlauben,
+
 kann auch Fenster wieder in den Hintergrund bringen.
 
 ### 20.11.2025
