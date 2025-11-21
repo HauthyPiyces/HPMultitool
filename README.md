@@ -8,7 +8,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Anpassbarer Hintergrund [(27.10.2025)](https://github.com/HauthyPiyces/HPMultitool#27102025)
 
-- Makro (15.11.2025)
+- Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
 
 - Youtube Web Downloader
 
@@ -16,7 +16,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Datei Tools [(11.11.2025)](https://github.com/HauthyPiyces/HPMultitool#13112025)
 
-- Fenster Focus Tools (21.11.2025)
+- Fenster Focus Tools [(21.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#21112025)
 
 - Automatisches Code Einlösungs System [(9.11.2025)](https://github.com/HauthyPiyces/HPMultitool#9112025)
 
