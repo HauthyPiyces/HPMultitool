@@ -47,8 +47,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 21.11.2025
 
-- Fenster Focus, gibt die möglichkeit Fenster in den Vordergrund zu holen und diese auch dort zu halten die es sonst nicht erlauben,
-
+- Fenster Focus, gibt die möglichkeit Fenster in den Vordergrund zu holen und diese auch dort zu halten die es sonst nicht erlauben,    
 kann auch Fenster wieder in den Hintergrund bringen.
 
 ### 20.11.2025
