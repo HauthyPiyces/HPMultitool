@@ -43,6 +43,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 21.11.2025
+
+- Fenster Focus, gibt die möglichkeit Fenster in den Vordergrund zu holen und diese auch dort zu halten die es sonst nicht erlauben,
+kann auch Fenster wieder in den Hintergrund bringen.
+
 ### 20.11.2025
 
 - Macro Überarbeitet, Funktionstasten wie "Space" oder "F1" sind nun wirklich Funktionstasten anstatt das sie geschrieben werden.
