@@ -46,6 +46,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 25.11.2025
+
+- Roblox auto-rejoin Bug gefixt welche nur andere machinen bzw PC's betraff, das Fenster zu minimieren sollte es wieder in die front holen,
+  anscheinend war der Weg mit dem ich dies gemacht hatte nicht Nativ auf jedem PC verfügbar.
+  Wenn du eine Anwendung minimierts wird diese in den meisten fällen nicht mehr gerendert, wodurch das IR System nichts zurück bekommen hat.
+
 ### 21.11.2025
 
 - Fenster Focus, gibt die möglichkeit Fenster in den Vordergrund zu holen und diese auch dort zu halten die es sonst nicht erlauben,    
