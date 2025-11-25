@@ -50,7 +50,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 - Roblox auto-rejoin Bug gefixt welche nur andere machinen bzw PC's betraff, das Fenster zu minimieren sollte es wieder in die front holen,
   anscheinend war der Weg mit dem ich dies gemacht hatte nicht Nativ auf jedem PC verfügbar.
-  Wenn du eine Anwendung minimierts wird diese in den meisten fällen nicht mehr gerendert, wodurch das IR System nichts zurück bekommen hat.
+  Wenn du eine Anwendung minimierts wird diese in den meisten fällen nicht mehr gerendert, wodurch das IR System nichts zurück bekommen hat bzw ein leeres bild.
 
 ### 21.11.2025
 
