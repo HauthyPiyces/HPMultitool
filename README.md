@@ -153,8 +153,6 @@ ebendso überprüft das Programm nicht ob es das richtige Password ist sondern e
 
 - DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in Unschärfe endet war im moment die einfachste möglichkeit welche überarbeitet wird sobald wirklich nötig.
 
-<img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/03f553c9-706f-4e6b-8a7e-292095cd0543" />
-
 ### 27.10.2025
 
 - Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt,
