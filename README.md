@@ -43,7 +43,6 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 
-
 # Verlauf des Projekts
 
 ### 27.11.2025
