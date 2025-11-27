@@ -46,6 +46,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 27.11.2025
+
+- Einstellungs Fenster etwas umgebaut und verkleinert,
+- Möglichkeit des Auto-Starts hinzugefügt.
+
 ### 25.11.2025
 
 - Roblox auto-rejoin Bug gefixt welche nur andere machinen bzw PC's betraff, das Fenster zu minimieren sollte es wieder in die front holen,
