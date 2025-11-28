@@ -22,6 +22,8 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
+- Timer (29.11.2025)
+
 - Ein Basic Autoklicker,
 
 ~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
@@ -44,6 +46,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 27.11.2025
+
+- Timer Funktion mit möglichkeit um eigende Audio Dateien hinzu zufügen,
+- Andere Erklärungen umgeschrieben und hinzugefügt. 
 
 ### 27.11.2025
 
