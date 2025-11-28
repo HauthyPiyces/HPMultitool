@@ -52,6 +52,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 - Timer Funktion mit möglichkeit um eigende Audio Dateien hinzu zufügen,
 - Andere Erklärungen umgeschrieben und hinzugefügt. 
 
+<img width="372" height="282" alt="image" src="https://github.com/user-attachments/assets/d1d509e7-c7d7-4f45-b0de-e1cf0bad8c48" />
+
+
+
 ### 27.11.2025
 
 - Einstellungs Fenster etwas umgebaut und verkleinert,
