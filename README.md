@@ -47,7 +47,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
-### 27.11.2025
+### 29.11.2025
 
 - Timer Funktion mit möglichkeit um eigende Audio Dateien hinzu zufügen,
 - Andere Erklärungen umgeschrieben und hinzugefügt. 
