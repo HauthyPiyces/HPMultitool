@@ -50,6 +50,15 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 29.11.2025
 
+- Timer Warnung beim schließen von dem Timer Fenster für aktive Timer,
+- Focus Fenster verschönert (Icons werden nun auch angezeigt)
+- FFmpeg angefangen zu integrieren, ein paar Konvertierungen sind nun möglich.
+- Neue Labels geschrieben und umgeschrieben.
+-  
+<img width="357" height="247" alt="image" src="https://github.com/user-attachments/assets/f54b2a69-6508-48ef-89da-cf8994251742" />
+
+
+---------- 0.2.12 ----------
 - Timer Funktion mit möglichkeit um eigende Audio Dateien hinzu zufügen,
 - Andere Erklärungen umgeschrieben und hinzugefügt. 
 
