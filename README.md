@@ -53,7 +53,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 - Focus Fenster verschönert (Icons werden nun auch angezeigt)
 - FFmpeg angefangen zu integrieren, ein paar Konvertierungen sind nun möglich.
 - Neue Labels geschrieben und umgeschrieben.
--  
+
 <img width="357" height="247" alt="image" src="https://github.com/user-attachments/assets/f54b2a69-6508-48ef-89da-cf8994251742" />
 
 
