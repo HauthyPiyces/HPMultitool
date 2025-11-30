@@ -10,7 +10,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
 
-- Youtube Web Downloader
+- Youtube Web Downloader (Wird bald ersetzt)
 
 - Text Speicher mit lokaler Verschlüsselung `Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)`
 
