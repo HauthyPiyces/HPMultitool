@@ -37,7 +37,8 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 - Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="818" height="424" alt="image" src="https://github.com/user-attachments/assets/1e23340d-af23-4dae-aa38-58da2eac6e68" />
+<img width="814" height="422" alt="image" src="https://github.com/user-attachments/assets/dbfb38cd-18c8-4933-b947-b596f4aeebb2" />
+
 
 
 
@@ -51,6 +52,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 - Konvertierungs Fenster um "Auflösung" und "FPS" ergänzt,
 - Code Filter beim Einlöse Fenster um "=" ergänzt,
+- Laden von Videos als Hintergrund mit richtigen Ladebalken Fortschritt ergänzt (War nicht funktions fähig)
 - Drag und Drop für DateiTools und Konvertierungs Fenster Hinzugefügt.
 
 ### 29.11.2025
