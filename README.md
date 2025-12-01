@@ -54,6 +54,8 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 - Code Filter beim Einlöse Fenster um "=" ergänzt,
 - Laden von Videos als Hintergrund mit richtigen Ladebalken Fortschritt ergänzt (War nicht funktions fähig)
 - Drag und Drop für DateiTools und Konvertierungs Fenster Hinzugefügt.
+<img width="355" height="288" alt="image" src="https://github.com/user-attachments/assets/07c47902-588a-4c14-9a56-22a6b09c7c5b" />
+
 
 ### 29.11.2025
 
