@@ -47,6 +47,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 01.12.2025
+
+- Konvertierungs Fenster um "Auflösung" und "FPS" ergänzt,
+- Code Filter beim Einlöse Fenster um "=" ergänzt,
+- Drag und Drop für DateiTools und Konvertierungs Fenster Hinzugefügt.
+
 ### 29.11.2025
 
 - Timer Warnung beim schließen von dem Timer Fenster für aktive Timer,
