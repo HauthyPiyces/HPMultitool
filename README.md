@@ -50,7 +50,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 01.12.2025
 
-- Konvertierungs Fenster um "Auflösung" und "FPS" ergänzt,
+- Konvertierungs Fenster um "Auflösung", "FPS" so wie Restzeit und Fortschritt ergänzt,
 - Code Filter beim Einlöse Fenster um "=" ergänzt,
 - Laden von Videos als Hintergrund mit richtigen Ladebalken Fortschritt ergänzt (War nicht funktions fähig)
 - Drag und Drop für DateiTools und Konvertierungs Fenster Hinzugefügt.
