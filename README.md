@@ -50,12 +50,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 03.12.2025
 
-- Hintergrund system Überarbeitet um nicht die anwendung neustarten zu müssen,
+- Hintergrund System überarbeitet um nicht die Anwendung neustarten zu müssen,
 - Das selbe für Ton gemacht,
 - Erzwungene Ladezeiten beim starten entfernt, diese waren zum testen da, (700ms)
-- Projekt verlauf wird nun in eine text datei geschrieben und angezeigt anstatt von einer MessageBox,
-- Einstellung - Overlay farbe entfernt,
-- Einstellung - Automatische update suche hinzugefügt, standard = inaktiv.
+- Projekt verlauf wird nun in eine Text Datei geschrieben und angezeigt anstatt von einer MessageBox,
+- Einstellung - Overlay Farbe entfernt,
+- Einstellung - Automatische update suche hinzugefügt, Standard = inaktiv.
 
 ### 01.12.2025
 
