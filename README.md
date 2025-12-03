@@ -48,6 +48,15 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 03.12.2025
+
+- Hintergrund system Überarbeitet um nicht die anwendung neustarten zu müssen,
+- Das selbe für Ton gemacht,
+- Erzwungene Ladezeiten beim starten entfernt, diese waren zum testen da, (700ms)
+- Projekt verlauf wird nun in eine text datei geschrieben und angezeigt anstatt von einer MessageBox,
+- Einstellung - Overlay farbe entfernt,
+- Einstellung - Automatische update suche hinzugefügt, standard = inaktiv.
+
 ### 01.12.2025
 
 - Konvertierungs Fenster um "Auflösung", "FPS" so wie Restzeit und Fortschritt ergänzt,
