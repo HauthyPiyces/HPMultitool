@@ -54,6 +54,9 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 Haupt Fenster, Einstellungen, Code Einlöse System, Datei Tools, Timer und Text Speicher
 
+<img width="817" height="425" alt="image" src="https://github.com/user-attachments/assets/b10f74ed-edf7-46bc-921a-10f7197fbf40" />
+
+
 ### 03.12.2025
 
 - Hintergrund System überarbeitet um nicht die Anwendung neustarten zu müssen,
