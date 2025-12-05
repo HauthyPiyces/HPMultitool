@@ -30,7 +30,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 ~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
 
-- Ressourcen nutzungs Overlay (minimal umfärbbar)
+- Ressourcen nutzungs Overlay
 
 - KeyOverlay
 
