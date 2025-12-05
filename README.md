@@ -48,6 +48,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 05.12.2025
+
+- Hilfe bzw Erklärungs Fenster für:
+
+Haupt Fenster, Einstellungen, Code Einlöse System, Datei Tools, Timer und Text Speicher
+
 ### 03.12.2025
 
 - Hintergrund System überarbeitet um nicht die Anwendung neustarten zu müssen,
