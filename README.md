@@ -37,7 +37,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 - Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="985" height="512" alt="image" src="https://github.com/user-attachments/assets/7d006d22-d00d-405c-b782-b05bca61c22f" />
+<img width="866" height="445" alt="image" src="https://github.com/user-attachments/assets/dd3543f1-3609-4eb1-886a-de2e13a07f7c" />
 
 
 
@@ -47,6 +47,17 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 06.12.2025
+
+- Herunterladbare Inhalte + Hilfe Fenster,
+
+In dem Fenster können zusatz inhalte für die Anwendung gefund und installiert werden,
+man kann sie auch manuell installieren indem man sie wie angegeben in dem Release "Unterstützungs Dateien"
+an einen vorbestimmten Ort ablegt.
+- Hintergrund Funktion ausgebaut um die exe zu verkleinern,
+- Statt alle Funktionen zusammen zu haben wurden sie zu Seiten umgebaut um weniger platz wegzunehmen.
+
 
 ### 05.12.2025
 
