@@ -37,7 +37,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 - Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="866" height="445" alt="image" src="https://github.com/user-attachments/assets/dd3543f1-3609-4eb1-886a-de2e13a07f7c" />
+<img width="864" height="444" alt="image" src="https://github.com/user-attachments/assets/d1eac70a-718e-45b2-94be-1b9d55daca0f" />
 
 
 
