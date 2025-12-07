@@ -53,8 +53,9 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 - Hellmodus Icons (Minimieren, Schließen und Hilfe button) gefixt um auch wieder schwarz zu werden,
 - Youtube Webdownloader ersetzt, 
 
-nutzt nun eine Modifizierte Variante vom Youtube Downloader gemacht von "shaked6540",
-https://github.com/shaked6540/YoutubePlaylistDownloader.
+nutzt nun eine Modifizierte Variante vom Youtube Downloader gemacht von ["shaked6540"](https://github.com/shaked6540/YoutubePlaylistDownloader),
+kann runtergeladen werden über das Optionaler Inhalt Fenster ohne manuell wie im Release:
+"Unterstützungs Dateien" angegeben.
 
 ### 06.12.2025
 
