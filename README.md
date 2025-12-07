@@ -10,7 +10,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
 
-- Youtube Web Downloader (Wird bald ersetzt)
+- Youtube Downloader (Modifizierte Version, Original: https://github.com/shaked6540/YoutubePlaylistDownloader)
 
 - Text Speicher mit lokaler Verschlüsselung `Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)`
 
@@ -47,6 +47,14 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 07.12.2025
+
+- Hellmodus Icons (Minimieren, Schließen und Hilfe button) gefixt um auch wieder schwarz zu werden,
+- Youtube Webdownloader ersetzt, 
+
+nutzt nun eine Modifizierte Variante vom Youtube Downloader gemacht von "shaked6540",
+https://github.com/shaked6540/YoutubePlaylistDownloader.
 
 ### 06.12.2025
 
