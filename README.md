@@ -48,6 +48,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 10.12.2025
+
+- Weitere checks für die Offiziele version des Youtube Downloaders eingearbeitet,
+- Youtube Downloader Bestätigung zum beenden der Anwendung entfernt.
+
 ### 07.12.2025
 
 - Hellmodus Icons (Minimieren, Schließen und Hilfe button) gefixt um auch wieder schwarz zu werden,
