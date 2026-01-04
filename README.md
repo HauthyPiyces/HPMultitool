@@ -50,6 +50,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 04.01.2026
 
+0.3-4
+- Referenz bei allen Fenstern hinzugefügt damit das log system auch wirklich Funktional ist.
+
+0.3-3
 - Zähler für die seiten hinzugefügt,
 - Log system welches bei Fehlern helfen sollte die situation zu rekreiren.
 - Erkennung der Originallen YTDL etwas verbessert + Hinweise.
