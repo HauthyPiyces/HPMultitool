@@ -1,6 +1,6 @@
-Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll, im selben Moment dient es als training, 
+Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll,
 
-Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden und sind alle willkommen.
+Weitere Vorschläge können auch hier hinterlassen werden und sind alle willkommen.
 
 Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahinter angegeben ist oder frag einfach nach.
 
@@ -47,6 +47,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 04.01.2026
+
+- Zähler für die seiten hinzugefügt,
+- Log system welches bei Fehlern helfen sollte die situation zu rekreiren.
+- Erkennung der Originallen YTDL etwas verbessert + Hinweise.
 
 ### 10.12.2025
 
