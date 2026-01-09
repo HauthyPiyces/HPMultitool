@@ -48,6 +48,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 09.01.2026
+
+- Argos Übersetzungssystem eingebaut, du kannst das Originale Git hier finden:
+  https://github.com/argosopentech/argos-translate
+- Download System leicht überarbeitet.
+
 ### 04.01.2026
 
 0.3-4
