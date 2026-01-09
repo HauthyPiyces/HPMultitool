@@ -1,7 +1,6 @@
-Hier stehen kommende geplannte updates, vorgeschlagen von anderen personen.
+Hier stehen kommende geplannte updates, vorgeschlagen von anderen personen,
+Bist du dir Unsicher? einfach ein issue erstellen und fragen!
 
 # Momentan Geplannt
 
-- Offline Übersetzung.
-
-Mittels Argos (https://github.com/argosopentech/argos-translate)
+- Spiele Libary
