@@ -54,6 +54,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 - Argos Übersetzungssystem eingebaut, du kannst das Originale Git hier finden:
   https://github.com/argosopentech/argos-translate
+- Das argos system kann über das "DLC" bzw Optionaler Inhalt Fenster runtergeladen werden,
 - Download System leicht überarbeitet.
 
 ### 04.01.2026
