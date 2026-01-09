@@ -6,6 +6,8 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 # Momentan beinhaltet das Projekt:
 
+- Argos (Offline Übersetzung) [(09.01.2026)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#09012026)
+
 - Anpassbarer Hintergrund [(27.10.2025)](https://github.com/HauthyPiyces/HPMultitool#27102025)
 
 - Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
