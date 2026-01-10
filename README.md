@@ -53,7 +53,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ### 10.01.2026
 
 - Spiele Download für ehr ältere Spiele die man nicht mehr bekommen kann,
-- Argos Haupt button Fehler behoben.
+- Argos Haupt button Fehler behoben. (erkennung ob es wirklich exsistiert.)
 
 ### 09.01.2026
 
