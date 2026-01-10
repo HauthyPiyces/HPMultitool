@@ -50,6 +50,11 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 # Verlauf des Projekts
 
+### 10.01.2026
+
+- Spiele Download für ehr ältere Spiele die man nicht mehr bekommen kann,
+- Argos Haupt button Fehler behoben.
+
 ### 09.01.2026
 
 - Argos Übersetzungssystem eingebaut, du kannst das Originale Git hier finden:
