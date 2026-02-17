@@ -8,7 +8,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Argos (Offline Übersetzung) [(09.01.2026)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#09012026)
 
-- Anpassbarer Hintergrund [(27.10.2025)](https://github.com/HauthyPiyces/HPMultitool#27102025)
+- Anpassbares HauptFenster
 
 - Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
 
@@ -49,6 +49,12 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 17.2.2026
+
+- Die möglichkeit Buttons, Boxen und ähnliches zu verschieben für das Haupt Fenster würde hinzugefügt,
+- Weitere Spiele für den Download bereit gestellt,
+- Kleinere Fehler behoben.
 
 ### 10.01.2026
 
