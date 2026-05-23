@@ -6,13 +6,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 # Momentan beinhaltet das Projekt:
 
-- Argos (Offline Übersetzung) [(09.01.2026)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#09012026)
-
 - Anpassbares HauptFenster
-
-- Makro [(15.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#15112025)
-
-- Youtube Downloader (Modifizierte Version, Original: https://github.com/shaked6540/YoutubePlaylistDownloader)
 
 - Text Speicher mit lokaler Verschlüsselung `Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)`
 
@@ -22,24 +16,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Fenster Focus Tools [(21.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#21112025)
 
-- Automatisches Code Einlösungs System [(9.11.2025)](https://github.com/HauthyPiyces/HPMultitool#9112025)
-
-- Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
-
-- Timer [(29.11.2025)](https://github.com/HauthyPiyces/HPMultitool?tab=readme-ov-file#29112025)
-
-- Ein Basic Autoklicker,
-
-~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
-
-- Ressourcen nutzungs Overlay
-
-- KeyOverlay
-
-- Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
-
-Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="864" height="444" alt="image" src="https://github.com/user-attachments/assets/d1eac70a-718e-45b2-94be-1b9d55daca0f" />
+- Ein Basic Autoklicker.
 
 
 
@@ -49,6 +26,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 
 # Verlauf des Projekts
+
+### 23.05.2026
+
+- Rework nun nur noch Downloadbar (noch in Arbeit).
 
 ### 17.2.2026
 
