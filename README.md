@@ -31,7 +31,7 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 - Rework nun nur noch Downloadbar (noch in Arbeit).
 
-### 17.2.2026
+~~~~### 17.2.2026
 
 - Die möglichkeit Buttons, Boxen und ähnliches zu verschieben für das Haupt Fenster würde hinzugefügt,
 - Weitere Spiele für den Download bereit gestellt,
