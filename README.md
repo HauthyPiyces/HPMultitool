@@ -27,6 +27,10 @@ Um mehr infos zu bekommen über ein Feature, geh zum Datum welches meistens dahi
 
 # Verlauf des Projekts
 
+### 14.08.2026
+
+- Download Verschoben auf eigenden Server (hputility.com)
+
 ### 23.05.2026
 
 - Rework nun nur noch Downloadbar (noch in Arbeit).
